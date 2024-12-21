@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Aluno/Aluno.iml" filepath="$PROJECT_DIR$/../../Aluno/Aluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Jogo/Jogo.iml" filepath="$PROJECT_DIR$/../../Jogo/Jogo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Zeroparacancelar/Zeroparacancelar.iml" filepath="$PROJECT_DIR$/../../Zeroparacancelar/Zeroparacancelar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../animal/animal.iml" filepath="$PROJECT_DIR$/../../animal/animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../motoca/motoca.iml" filepath="$PROJECT_DIR$/../../motoca/motoca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../portaminas/portaminas.iml" filepath="$PROJECT_DIR$/../../portaminas/portaminas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../relogio/relogio.iml" filepath="$PROJECT_DIR$/../../relogio/relogio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../teste/teste.iml" filepath="$PROJECT_DIR$/../../teste/teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ZeroparaCancelar/zeroparacancelar/zeroparacancelar.iml" filepath="$PROJECT_DIR$/../../ZeroparaCancelar/zeroparacancelar/zeroparacancelar.iml" />
+    </modules>
+  </component>
+</project>
