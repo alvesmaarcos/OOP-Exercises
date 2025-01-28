@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/animal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/budega" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/busca" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cadastro" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/calculadora" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/camisa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/carro" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chinela" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/enxugar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grafite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lapiseira" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/motoca" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/porquinho" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/relogio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/roupa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/toalha" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
